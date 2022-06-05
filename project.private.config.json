@@ -1,0 +1,71 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/admin/admin",
+          "pathName": "pages/admin/admin",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/input/input",
+          "pathName": "pages/input/input",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/forum/forum",
+          "pathName": "pages/forum/forum",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/index/index",
+          "pathName": "pages/index/index",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/publish/publish",
+          "pathName": "pages/publish/publish",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/edit/edit",
+          "pathName": "pages/edit/edit",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/sport/sport",
+          "pathName": "pages/sport/sport",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/message/message",
+          "pathName": "pages/message/message",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/reply/reply",
+          "pathName": "pages/reply/reply",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
